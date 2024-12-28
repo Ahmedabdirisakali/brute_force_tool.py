@@ -10,4 +10,10 @@ apt install git  -y
 
 apt install python python2 -y
 
-git clone 
+git clone https://github.com/Ahmedabdirisakali/brute_force_tool.py.git
+
+cd brute_force_tool.py
+
+chmod +x *
+
+
