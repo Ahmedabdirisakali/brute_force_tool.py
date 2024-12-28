@@ -16,4 +16,22 @@ cd brute_force_tool.py
 
 chmod +x *
 
+python3 -m venv venv
+
+source venv/bin/activate
+
+pip install -r requirements.tx 
+
+ama mid mid urakib maktabadaha.
+
+pip install requests
+
+pip install beautifulsoup
+
+python brute_force_tool.py
+
+ama sidaan ukici
+
+python2  brute_force_tool.py
+
 
