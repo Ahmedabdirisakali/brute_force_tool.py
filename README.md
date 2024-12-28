@@ -26,7 +26,7 @@ ama mid mid urakib maktabadaha.
 
 pip install requests
 
-pip install beautifulsoup
+pip install beautifulsoup4
 
 python brute_force_tool.py
 
